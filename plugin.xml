@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="org.bloxlab.barcodescanner"
-    version="0.9.0">
+    version="0.9.1">
     <name>BarcodeScanner</name>
     <description>Scans barcodes using the camera for WP8 devices.</description>
     <author>Simon Chan</author>
